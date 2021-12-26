@@ -1,4 +1,4 @@
-# Network_Programming_project
+# Network Programming project restful api
 
 ## Methods in UserApi endpoint
 
